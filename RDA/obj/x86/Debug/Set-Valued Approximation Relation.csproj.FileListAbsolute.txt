@@ -1,0 +1,71 @@
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Giang Day\DO-IT\DMP\RDSAP\RDA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Giang Day\DO-IT\Tap mo\TN\RDA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TN-20-5\RDA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Giang Day\DO-IT\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Giang Day\DO-IT\2020\Tap mo\Bai bao\TNIFS\RDA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS\RDA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\obj\x86\Debug\RDA.pdb
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\bin\Debug\RDA.exe
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\bin\Debug\RDA.pdb
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\obj\x86\Debug\RDA.Form1.resources
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\obj\x86\Debug\RDA.Properties.Resources.resources
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\obj\x86\Debug\Set-Valued Approximation Relation.csproj.GenerateResource.Cache
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\obj\x86\Debug\RDA.exe
+D:\Giang Day\DO-IT\2021\TN_IFS\TNIFS-SCIE\RDA\obj\x86\Debug\Set-Valued Approximation Relation.csprojResolveAssemblyReference.cache
