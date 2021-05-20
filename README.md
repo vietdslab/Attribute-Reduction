@@ -4,6 +4,3 @@ The main step
  ![image](https://user-images.githubusercontent.com/84446339/118915698-b252db80-b957-11eb-984b-2fec7e2b316f.png)
 -	Step 2: Run Python with Filter reduct input to find the Wrapper reduct with final reduct has the best classification accuracy 
 ![image](https://user-images.githubusercontent.com/84446339/118915716-c0086100-b957-11eb-9e1c-6fd2160c1ee8.png)
-
- 
-
